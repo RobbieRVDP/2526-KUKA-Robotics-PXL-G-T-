@@ -8,7 +8,7 @@ Some variables might not be found in the .dat nor in the .src, because they were
 Last but not least, hardware changes were also used to change override speed. These were coded into the PLC (or as Germans like to call it: SPS) of the robot, this code can be found int he spsSUB, which is the sps.sub-file.
 Code comments were written in Dutch, should you want to translate. 
 
-The full backup can be found in the backup folder.
+The full backup contained way to many files to upload onto github.
 
 Portfolio: Our progress can be read in the portfolio, which was written in a chronological order and displays the struggles, fixes and choices that were made over the course of the project. 
 
